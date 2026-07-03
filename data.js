@@ -199,7 +199,7 @@ var APP_DATA = {
           "yaw": 0.7798714941106653,
           "pitch": 0.026944204850551046,
           "title": "Informação Fachada",
-          "text": "A representação da fachada nesta unidade decorada meramente ilustrativa e fictícia.<div>As fachadas do empreendimento serão executadas obedecendo ao projeto executivo e seguindo rigorosamente as especificações contidas no memorial descritivo de construção e acabamentos.</div>"
+          "text": "A representação da fachada nesta unidade decorada meramente ilustrativa e fictícia.<div>As fachadas do empreendimento serão executadas obedecendo ao projeto executivo, seguindo rigorosamente as especificações contidas no memorial descritivo de construção e acabamentos.</div>"
         }
       ],
       "minimap": "assets/2-quarto-e-varanda.png"
