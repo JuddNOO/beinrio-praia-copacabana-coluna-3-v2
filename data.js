@@ -198,7 +198,7 @@ var APP_DATA = {
         {
           "yaw": 0.7798714941106653,
           "pitch": 0.026944204850551046,
-          "title": "<span style=\"color: rgb(227, 227, 227); font-family: &quot;Google Sans Flex&quot;, &quot;Google Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; font-size: 17px; font-variant-ligatures: none; white-space: pre-wrap; background-color: rgb(30, 31, 32);\">Informação Fachada</span>",
+          "title": "Informação Fachada",
           "text": "A representação da fachada nesta unidade decorada meramente ilustrativa e fictícia.<div>As fachadas do empreendimento serão executadas obedecendo ao projeto executivo e seguindo rigorosamente as especificações contidas no memorial descritivo de construção e acabamentos.</div>"
         }
       ],
