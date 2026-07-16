@@ -60,8 +60,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.11391186255606556,
-          "pitch": 0.10238576824860424,
+          "yaw": 1.6958689228498374,
+          "pitch": 0.24969311082392665,
           "title": "Informação Decoração",
           "text": "Esta unidade decorada tem apenas a finalidade de ilustrar uma sugestão de decoração proposta para o objeto de venda. Móveis, marcenaria, bancadas, cubas, louças, metais, vidros, espelhos, utensílios, objetos de decoração, iluminação e sancas apresentados neste decorado são apenas sugestões de decoração, não integrando o contrato de compra e venda da unidade autônoma. Os revestimentos de pisos, paredes, forros e demais acabamentos apresentados nesta unidade decorada também compõe a sugestão de decoração. A unidade autônoma será entregue conforme o padrão disposto no Memorial Descritivo, que integra o instrumento de compra e venda. Os acabamentos poderão ser modificados conforme o programa My Choice."
         },
@@ -128,6 +128,18 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
+          "yaw": -1.8477404620350963,
+          "pitch": 0.016498410330312296,
+          "title": "Informação Marcenaria",
+          "text": "<img src='assets/img-info-2.png' class='hotspot-img'> A marcenaria será entregue conforme imagens acima e Termo de Aceite apresentado ao cliente."
+        },
+        {
+          "yaw": 0.14041471025164398,
+          "pitch": 0.43161869252111984,
+          "title": "Informação Bancada",
+          "text": "Essa bancada será entregue com cooktop, cuba e metais conforme apresentados."
+        },
+        {
           "yaw": -1.5632027771365316,
           "pitch": -0.043716871488491904,
           "title": "Informação Portas",
@@ -144,6 +156,12 @@ var APP_DATA = {
           "pitch": 0.20945183858740357,
           "title": "Informação Molduras",
           "text": "As molduras, pintura das portas e batentes apresentados nesta unidade decorada são apenas sugestão de decoração.<div>A unidade autônoma será entregue conforme o Memorial Descritivo, que integra o instrumento de compra e venda.</div>"
+        },
+        {
+          "yaw": 0.12602437385163157,
+          "pitch": -0.060941824146262036,
+          "title": "Informação Marcenaria",
+          "text": " <img src='assets/img-info-1.png' class='hotspot-img'> A marcenaria será entregue conforme imagens acima e Termo de Aceite apresentado ao cliente."
         }
       ],
       "minimap": "assets/1-cozinha.png"
@@ -264,8 +282,8 @@ var APP_DATA = {
           "text": "O sistema de ar condicionado instalado nesta unidade decorada é apenas para sua comodidade e conforto.<div>O sistema de ar condicionado do empreendimento seguirá os padrões constantes no Memorial Descritivo que integra o instrumento de venda da unidade autônoma.</div>"
         },
         {
-          "yaw": -1.7771543337079159,
-          "pitch": 0.08650965172141412,
+          "yaw": 2.179896221733136,
+          "pitch": 0.456869772128508,
           "title": "Informação Decoração",
           "text": "Esta unidade decorada tem apenas a finalidade de ilustrar uma sugestão de decoração proposta para o objeto de venda. Móveis, marcenaria, bancadas, cubas, louças, metais, vidros, espelhos, utensílios, objetos de decoração, iluminação e sancas apresentados neste decorado são apenas sugestões de decoração, não integrando o contrato de compra e venda da unidade autônoma.<br>Os revestimentos de pisos, paredes, forros e demais acabamentos apresentados nesta unidade decorada também compõe a sugestão de decoração. A unidade autônoma será entregue conforme o padrão disposto no Memorial Descritivo, que integra o instrumento de compra e venda. Os acabamentos poderão ser modificados conforme o programa My Choice.<br><br>"
         }
@@ -312,7 +330,14 @@ var APP_DATA = {
           "target": "1-cozinha"
         }
       ],
-      "infoHotspots": [],
+      "infoHotspots": [
+        {
+          "yaw": -0.028634641624373458,
+          "pitch": 0.4306937074954469,
+          "title": "Informação Marcenaria",
+          "text": "<img src='assets/img-info-3.png' class='hotspot-img'> A marcenaria será entregue conforme imagens acima e Termo de Aceite apresentado ao cliente."
+        }
+      ],
       "minimap": "assets/4-banheiro.png"
     }
   ],
