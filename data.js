@@ -161,7 +161,7 @@ var APP_DATA = {
           "yaw": 0.12602437385163157,
           "pitch": -0.060941824146262036,
           "title": "Informação Marcenaria",
-          "text": " <img src='assets/img-info-1.png' class='hotspot-img'> A marcenaria será entregue conforme imagens acima e Termo de Aceite apresentado ao cliente."
+          "text": " <img src='assets/img-info-1.png' class='hotspot-img'> A marcenaria será entregue conforme imagens acima (exceto armários cinza suspensos) e Termo de Aceite apresentado ao cliente."
         }
       ],
       "minimap": "assets/1-cozinha.png"
